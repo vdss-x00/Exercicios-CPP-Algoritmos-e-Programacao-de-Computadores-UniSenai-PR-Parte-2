@@ -76,5 +76,6 @@ Exercicios-CPP-Algoritmos-e-Programacao-de-Computadores-UniSenai-PR/
 │   └── exercicio01.cpp, exercicio02.cpp, ...
 ├── 08_manip_arq/
 │   └── exercicio01.cpp, exercicio02.cpp, ...
+└── .gitignore
 └── README.md
 ```
