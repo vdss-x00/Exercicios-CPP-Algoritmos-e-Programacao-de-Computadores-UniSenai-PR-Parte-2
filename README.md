@@ -15,6 +15,7 @@ Esse repositório é uma continuação do primeiro que foi postado, com exercíc
 
 Este repositório contém exercícios resolvidos em C++, abordando tópicos mais avançados da programação:
 
+- Loops `for`
 - Vetores
 - Matrizes
 - Modularização
@@ -27,11 +28,13 @@ O objetivo é reforçar a lógica de programação, o uso de estruturas de contr
 
 Principais diretórios e arquivos:
 
+- `03_repeticao/estrutura_for/` - Exercícios com uso da estrutura `for`.
 - `04_vetores/` – Exercícios com operações de vetores.
 - `05_matrizes/` – Exercícios com operações de matrizes.
 - `06_modulos/` – Exercícios que abordam modularização na linguagem C++.
 - `07_struct/` – Exercícios que abordam o conceito de Structs na linguagem C++.
 - `08_manip_arq/` – Exercícios que dão um primeiro contato com manipulação de arquivos na linguagem C++.
+- `.gitignore` - O arquivo `.gitignore` para os arquivos `.exe` deste repositório.
 - `README.md` – Este arquivo de documentação.
 
 ## Como Usar / Compilar
@@ -66,6 +69,9 @@ Principais diretórios e arquivos:
 
 ```text
 Exercicios-CPP-Algoritmos-e-Programacao-de-Computadores-UniSenai-PR/
+├── 03_repeticao/
+│   └── estrutura_for/
+|        └── exercicio01.cpp, exercicio02.cpp, ...
 ├── 04_vetores/
 │   └── exercicio01.cpp, exercicio02.cpp, ...
 ├── 05_matrizes/
